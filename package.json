@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "main": "src/update.js",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/batjko/win-update-node.git"
+  },
   "bin": {
     "update-node": "src/update.js"
   },
